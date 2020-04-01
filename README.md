@@ -1,2 +1,2 @@
 # automatedDelivery
-automated jenkins and delevery process
+automated jenkins and delivery process
