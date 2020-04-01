@@ -1,2 +1,2 @@
 # automatedDelivery
-automated jenkins and delivery process
+automated jenkins and delivery process test
